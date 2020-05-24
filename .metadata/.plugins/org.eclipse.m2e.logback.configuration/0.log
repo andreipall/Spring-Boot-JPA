@@ -2852,3 +2852,226 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2020-05-21 17:07:35,830 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-05-21 17:07:35,832 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-05-21 17:07:35,832 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootAttributeLazyLoadingBasic\src\test\resources
+2020-05-24 17:54:59,824 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-05-24 18:00:18,216 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jpa:HibernateSpringBootAttributeLazyLoadingBasic:1.0 @ C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootAttributeLazyLoadingBasic\pom.xml.
+2020-05-24 18:00:19,444 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:00:19,460 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 18:00:19,475 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:00:19,475 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:00:19,475 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootAttributeLazyLoadingBasic\src\test\resources
+2020-05-24 18:00:20,346 [Worker-13: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jpa:HibernateSpringBootAttributeLazyLoadingBasic:1.0 @ C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootAttributeLazyLoadingBasic\pom.xml.
+2020-05-24 18:00:21,564 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:00:21,566 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:00:21,566 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:00:21,566 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:00:21,566 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootAttributeLazyLoadingBasic\src\test\resources
+2020-05-24 18:00:28,142 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:00:28,157 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:00:28,157 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:00:28,157 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:00:28,157 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootAttributeLazyLoadingBasic\src\test\resources
+2020-05-24 18:00:40,962 [Worker-15: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jpa:HibernateSpringBootBatchInsertsEntityManager:1.0 @ C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootBatchInsertsEntityManager\pom.xml.
+2020-05-24 18:00:41,581 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:00:41,596 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 18:00:41,603 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:00:41,603 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:00:41,603 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootBatchInsertsEntityManager\src\test\resources
+2020-05-24 18:00:42,659 [Worker-14: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jpa:HibernateSpringBootBatchInsertsEntityManager:1.0 @ C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootBatchInsertsEntityManager\pom.xml.
+2020-05-24 18:00:43,745 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:00:43,753 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:00:43,753 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:00:43,755 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:00:43,755 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootBatchInsertsEntityManager\src\test\resources
+2020-05-24 18:01:00,409 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:01:00,409 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:01:00,409 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:01:00,425 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:01:00,425 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootBatchInsertsEntityManager\src\test\resources
+2020-05-24 18:01:03,654 [Worker-15: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jpa:HibernateSpringBootAttributeLazyLoadingBasic:1.0 @ C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootAttributeLazyLoadingBasic\pom.xml.
+2020-05-24 18:01:04,957 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:01:04,957 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 18:01:04,957 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:01:04,957 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:01:04,957 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootAttributeLazyLoadingBasic\src\test\resources
+2020-05-24 18:02:11,497 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:02:11,497 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:02:11,497 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:02:11,497 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:02:11,497 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootAttributeLazyLoadingBasic\src\test\resources
+2020-05-24 18:02:21,447 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:02:21,447 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:02:21,447 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:02:21,447 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:02:21,447 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootBatchInsertsEntityManager\src\test\resources
+2020-05-24 18:02:39,280 [Worker-14: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jpa:HibernateSpringBootBatchInsertsEntityManagerViaJpaContext:1.0 @ C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootBatchInsertsEntityManagerViaJpaContext\pom.xml.
+2020-05-24 18:02:40,061 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:02:40,061 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 18:02:40,073 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:02:40,073 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:02:40,073 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootBatchInsertsEntityManagerViaJpaContext\src\test\resources
+2020-05-24 18:02:40,898 [Worker-14: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jpa:HibernateSpringBootBatchInsertsEntityManagerViaJpaContext:1.0 @ C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootBatchInsertsEntityManagerViaJpaContext\pom.xml.
+2020-05-24 18:02:41,829 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:02:41,829 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:02:41,829 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:02:41,845 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:02:41,845 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootBatchInsertsEntityManagerViaJpaContext\src\test\resources
+2020-05-24 18:03:01,209 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:03:01,209 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:03:01,209 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:03:01,209 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:03:01,209 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootBatchInsertsEntityManagerViaJpaContext\src\test\resources
+2020-05-24 18:03:08,155 [Worker-10: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jpa:HibernateSpringBootBatchInsertsJpaRepository:1.0 @ C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootBatchInsertsJpaRepository\pom.xml.
+2020-05-24 18:03:08,764 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:03:08,764 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 18:03:08,780 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:03:08,780 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:03:08,780 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootBatchInsertsJpaRepository\src\test\resources
+2020-05-24 18:03:09,813 [Worker-17: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jpa:HibernateSpringBootBatchInsertsJpaRepository:1.0 @ C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootBatchInsertsJpaRepository\pom.xml.
+2020-05-24 18:03:10,738 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:03:10,740 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:03:10,740 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:03:10,740 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:03:10,740 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootBatchInsertsJpaRepository\src\test\resources
+2020-05-24 18:03:31,843 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:03:31,843 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:03:31,843 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:03:31,858 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:03:31,858 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootBatchInsertsJpaRepository\src\test\resources
+2020-05-24 18:03:55,630 [Worker-15: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jpa:HibernateSpringBootBatchInsertsViaSession:1.0 @ C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootBatchInsertsViaSession\pom.xml.
+2020-05-24 18:03:56,181 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:03:56,181 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 18:03:56,191 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:03:56,191 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:03:56,191 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootBatchInsertsViaSession\src\test\resources
+2020-05-24 18:03:57,263 [Worker-16: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jpa:HibernateSpringBootBatchInsertsViaSession:1.0 @ C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootBatchInsertsViaSession\pom.xml.
+2020-05-24 18:03:58,868 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:03:58,884 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:03:58,884 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:03:58,884 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:03:58,884 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootBatchInsertsViaSession\src\test\resources
+2020-05-24 18:04:16,510 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:04:16,510 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:04:16,510 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:04:16,510 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:04:16,510 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootBatchInsertsViaSession\src\test\resources
+2020-05-24 18:04:27,822 [Worker-11: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jpa:HibernateSpringBootDataSourceProxy:1.0 @ C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootDataSourceProxy\pom.xml.
+2020-05-24 18:04:28,377 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:04:28,379 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 18:04:28,389 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:04:28,389 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:04:28,389 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootDataSourceProxy\src\test\resources
+2020-05-24 18:04:29,453 [Worker-15: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jpa:HibernateSpringBootDataSourceProxy:1.0 @ C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootDataSourceProxy\pom.xml.
+2020-05-24 18:04:30,385 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:04:30,385 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:04:30,385 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:04:30,385 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:04:30,385 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootDataSourceProxy\src\test\resources
+2020-05-24 18:04:37,532 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:04:37,532 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:04:37,532 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:04:37,547 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:04:37,547 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootDataSourceProxy\src\test\resources
+2020-05-24 18:04:44,185 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:04:44,185 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:04:44,185 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:04:44,185 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:04:44,185 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootDataSourceProxy\src\test\resources
+2020-05-24 18:05:08,188 [Worker-15: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jpa:HibernateSpringBootDirectFetching:1.0 @ C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootDirectFetching\pom.xml.
+2020-05-24 18:05:08,739 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:05:08,739 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 18:05:08,754 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 18:05:08,754 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:05:08,754 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootDirectFetching\src\test\resources
+2020-05-24 18:05:09,773 [Worker-0: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jpa:HibernateSpringBootDirectFetching:1.0 @ C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootDirectFetching\pom.xml.
+2020-05-24 18:05:10,706 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:05:10,706 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:05:10,706 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:05:10,706 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:05:10,706 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootDirectFetching\src\test\resources
+2020-05-24 18:05:19,887 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:05:19,887 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:05:19,887 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:05:19,887 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:05:19,887 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootDirectFetching\src\test\resources
+2020-05-24 18:05:28,563 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jpa:HibernateSpringBootDtoViaProjections:1.0 @ C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootDtoViaProjections\pom.xml.
+2020-05-24 18:05:29,101 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:05:29,101 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 18:05:29,111 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 18:05:29,119 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:05:29,119 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootDtoViaProjections\src\test\resources
+2020-05-24 18:05:30,095 [Worker-13: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jpa:HibernateSpringBootDtoViaProjections:1.0 @ C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootDtoViaProjections\pom.xml.
+2020-05-24 18:05:30,931 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:05:30,931 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:05:30,931 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:05:30,947 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:05:30,947 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootDtoViaProjections\src\test\resources
+2020-05-24 18:05:50,869 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:05:50,869 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:05:50,869 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:05:50,869 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:05:50,869 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootDtoViaProjections\src\test\resources
+2020-05-24 18:06:01,178 [Worker-14: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jpa:HibernateSpringBootPopulatingChildViaProxy:1.0 @ C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootPopulatingChildViaProxy\pom.xml.
+2020-05-24 18:06:01,699 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:06:01,699 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 18:06:01,708 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 18:06:01,718 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:06:01,718 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootPopulatingChildViaProxy\src\test\resources
+2020-05-24 18:06:02,756 [Worker-0: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jpa:HibernateSpringBootPopulatingChildViaProxy:1.0 @ C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootPopulatingChildViaProxy\pom.xml.
+2020-05-24 18:06:03,690 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:06:03,690 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:06:03,690 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:06:03,705 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:06:03,705 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootPopulatingChildViaProxy\src\test\resources
+2020-05-24 18:06:20,091 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:06:20,091 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:06:20,091 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:06:20,098 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:06:20,098 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootPopulatingChildViaProxy\src\test\resources
+2020-05-24 18:06:45,062 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:06:45,062 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 18:06:45,078 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 18:06:45,078 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:06:45,085 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootSimulateNPlus1\src\test\resources
+2020-05-24 18:07:15,138 [Worker-19: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jpa:HibernateSpringBootUTCTimezone:1.0 @ C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootUTCTimezone\pom.xml.
+2020-05-24 18:07:15,653 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:07:15,655 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 18:07:15,665 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:07:15,665 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:07:15,665 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootUTCTimezone\src\test\resources
+2020-05-24 18:07:16,669 [Worker-18: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jpa:HibernateSpringBootUTCTimezone:1.0 @ C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootUTCTimezone\pom.xml.
+2020-05-24 18:07:17,474 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:07:17,482 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:07:17,484 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:07:17,484 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:07:17,484 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootUTCTimezone\src\test\resources
+2020-05-24 18:08:22,737 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:08:22,737 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:08:22,737 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:08:22,737 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:08:22,737 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootUTCTimezone\src\test\resources
+2020-05-24 18:08:30,495 [Worker-10: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jpa:HibernateSpringBootViewBindingParameters:1.0 @ C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootViewBindingParameters\pom.xml.
+2020-05-24 18:08:30,984 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:08:30,984 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 18:08:31,000 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:08:31,000 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:08:31,000 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootViewBindingParameters\src\test\resources
+2020-05-24 18:08:32,026 [Worker-10: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jpa:HibernateSpringBootViewBindingParameters:1.0 @ C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootViewBindingParameters\pom.xml.
+2020-05-24 18:08:32,943 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:08:32,943 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:08:32,943 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:08:32,943 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:08:32,943 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootViewBindingParameters\src\test\resources
+2020-05-24 18:09:00,477 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:09:00,477 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:09:00,477 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:09:00,477 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:09:00,477 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootViewBindingParameters\src\test\resources
+2020-05-24 18:09:14,038 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:09:14,038 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:09:14,038 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:09:14,038 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:09:14,038 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootViewBindingParameters\src\test\resources
+2020-05-24 18:09:32,991 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 18:09:32,991 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:09:32,991 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 18:09:32,991 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
