@@ -3671,3 +3671,47 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.springfra
 2020-05-24 19:44:37,879 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2020-05-24 19:44:37,879 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-05-24 19:44:37,879 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 19:44:37,879 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootCountSQLStatements\src\test\resources
+2020-05-24 19:49:05,579 [Worker-78: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-05-24 19:49:05,911 [Worker-78: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jpa:HibernateSpringBootJpaCallbacks:1.0 @ C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootJpaCallbacks\pom.xml.
+2020-05-24 19:49:06,534 [Worker-78: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HibernateSpringBootJpaCallbacks/src/main/java
+2020-05-24 19:49:06,534 [Worker-78: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HibernateSpringBootJpaCallbacks/src/main/resources
+2020-05-24 19:49:06,534 [Worker-78: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HibernateSpringBootJpaCallbacks/src/main/resources
+2020-05-24 19:49:06,534 [Worker-78: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HibernateSpringBootJpaCallbacks/src/test/java
+2020-05-24 19:49:06,882 [Worker-78: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-05-24 19:49:07,462 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 19:49:07,462 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 19:49:07,477 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 19:49:07,477 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 19:49:07,477 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootJpaCallbacks\src\test\resources
+2020-05-24 19:49:30,207 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 19:49:30,223 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 19:49:30,223 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 19:49:30,223 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 19:49:30,223 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootJpaCallbacks\src\test\resources
+2020-05-24 19:49:50,942 [Worker-70: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jpa:HibernateSpringBootJpaCallbacks:1.0 @ C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootJpaCallbacks\pom.xml.
+2020-05-24 19:49:51,426 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 19:49:51,426 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 19:49:51,426 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 19:49:51,426 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 19:49:51,426 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootJpaCallbacks\src\test\resources
+2020-05-24 19:49:53,206 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 19:49:53,206 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 19:49:53,214 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 19:49:53,214 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 19:49:53,214 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootJpaCallbacks\src\test\resources
+2020-05-24 19:49:59,190 [Worker-70: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-05-24 19:49:59,522 [Worker-70: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.jpa:HibernateSpringBootJpaCallbacks:1.0 @ C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootJpaCallbacks\pom.xml.
+2020-05-24 19:49:59,909 [Worker-70: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HibernateSpringBootJpaCallbacks/src/main/java
+2020-05-24 19:49:59,909 [Worker-70: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HibernateSpringBootJpaCallbacks/src/main/resources
+2020-05-24 19:49:59,909 [Worker-70: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /HibernateSpringBootJpaCallbacks/src/main/resources
+2020-05-24 19:49:59,909 [Worker-70: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /HibernateSpringBootJpaCallbacks/src/test/java
+2020-05-24 19:50:00,194 [Worker-70: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-05-24 19:50:00,599 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 19:50:00,599 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 19:50:00,599 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-05-24 19:50:00,610 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 19:50:00,610 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootJpaCallbacks\src\test\resources
+2020-05-24 19:50:19,593 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-05-24 19:50:19,593 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-05-24 19:50:19,593 [Worker-78: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
