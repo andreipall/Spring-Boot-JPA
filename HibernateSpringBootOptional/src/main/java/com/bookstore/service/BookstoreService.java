@@ -33,7 +33,7 @@ public class BookstoreService {
 
     @Transactional(readOnly = true)
     public void fetchAuthorFromBook() {
-        Optional<Book> book = bookRepository.findByTitle("Mastering JSF 2.2");
+        Optional<Book> book = bookRepository.findByTitle("Mastering Spring Boot");
 
         if (book.isPresent()) {
             Optional<Author> author = book.get().getAuthor();
@@ -44,7 +44,7 @@ public class BookstoreService {
                 System.out.println("Author of this book doesn't exist ... hmmm!");
             }
         } else {
-            System.out.println("This book 'Mastering JSF 2.2' doesn't exist!");
+            System.out.println("This book 'Mastering Spring Boot' doesn't exist!");
         }
     }
 

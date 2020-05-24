@@ -3,7 +3,7 @@ package com.bookstore.entity;
 import java.io.Serializable;
 import javax.persistence.DiscriminatorValue;
 import javax.persistence.Entity;
-import javax.validation.constraints.NotNull;
+import org.springframework.lang.NonNull;
 
 @Entity
 @DiscriminatorValue("3")
@@ -11,9 +11,9 @@ public class Paperback extends Book implements Serializable {
 
     private static final long serialVersionUID = 1L;
 
-    @NotNull
+    @NonNull
     private String sizeIn;
-    @NotNull
+    @NonNull
     private String weightLbs;
 
     public String getSizeIn() {
