@@ -47,6 +47,28 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootElementCollectionWithOrderColumn"/>
+			<item value="C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootElementCollectionNoOrderColumn"/>
+			<item value="C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootDtoBlazeEntityView"/>
+			<item value="C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootDtoResultTransformerJpql"/>
+			<item value="C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootDtoResultTransformer"/>
+			<item value="C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootDtoConstructorExpression"/>
+			<item value="C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootDtoTupleAndJpql"/>
+			<item value="C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootDtoTupleAndSql"/>
+			<item value="C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootDtoSqlResultSetMappingAndNamedNativeQuery"/>
+			<item value="C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootDtoViaSqlResultSetMappingEm"/>
+			<item value="C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootOneToOneMapsId"/>
+			<item value="C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootJpaCallbacks"/>
+			<item value="C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootCountSQLStatements"/>
+			<item value="C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootSingleTableInheritance"/>
+			<item value="C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootBatchingAndSerial"/>
+			<item value="C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootRedundantSave"/>
+			<item value="C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootAutoGeneratorType"/>
+			<item value="C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootQueryFetching"/>
+			<item value="C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootOneToManyBidirectional"/>
+			<item value="C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootOptional"/>
+			<item value="C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootEnableDirtyTracking"/>
+			<item value="C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootHintPassDistinctThrough"/>
 			<item value="C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootSimulateNPlus1"/>
 			<item value="C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootPopulatingChildViaProxy"/>
 			<item value="C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootAttributeLazyLoadingBasic"/>
