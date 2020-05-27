@@ -15,7 +15,7 @@ public class ConfigureDataSource {
 
         hds.setJdbcUrl("jdbc:mysql://localhost:3306/numberdb?createDatabaseIfNotExist=true");
         hds.setUsername("root");
-        hds.setPassword("root");
+        hds.setPassword("");
         hds.setConnectionTimeout(50000);
         hds.setIdleTimeout(300000);
         hds.setMaxLifetime(900000);

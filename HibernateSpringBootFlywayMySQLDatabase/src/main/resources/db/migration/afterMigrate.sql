@@ -1,3 +1,4 @@
+use bookstoredb;
 delete from book;
 delete from author;
 insert into author (age, name, genre, id) values (23, "Mark Janel", "Anthology", 1);
