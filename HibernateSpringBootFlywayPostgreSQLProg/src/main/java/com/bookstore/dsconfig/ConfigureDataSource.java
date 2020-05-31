@@ -18,7 +18,7 @@ public class ConfigureDataSource {
 
         hds.setJdbcUrl("jdbc:postgresql://localhost:5432/postgres");
         hds.setUsername("postgres");
-        hds.setPassword("postgres");
+        hds.setPassword("Iarna29");
         hds.setConnectionTimeout(50000);
         hds.setIdleTimeout(300000);
         hds.setMaxLifetime(900000);
