@@ -47,6 +47,15 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootOneToManyUnidirectional"/>
+			<item value="C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootBulkUpdates"/>
+			<item value="C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootCascadeChildRemoval"/>
+			<item value="C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootOrderByRandom"/>
+			<item value="C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootLogBindingParametersMySQL"/>
+			<item value="C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootJacksonHibernate5Module"/>
+			<item value="C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootMappedSuperclass"/>
+			<item value="C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootTablePerClassInheritance"/>
+			<item value="C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootJoinTableInheritance"/>
 			<item value="C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootMySqlSkipLocked"/>
 			<item value="C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootSoftDeletesSpringStyle"/>
 			<item value="C:\Users\Andrei.Pall\Documents\workspace-spring-tool-suite-4-4.6.1.RELEASE\HibernateSpringBootNamedEntityGraphBasicAttrs"/>
