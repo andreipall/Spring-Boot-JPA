@@ -1,4 +1,4 @@
-**[How To JDBC Batch a Big JSON File To MySQL Via ForkJoinPool And HikariCP](https://github.com/AnghelLeonard/Hibernate-SpringBoot/tree/master/HibernateSpringBootBatchJsonFileForkJoin)**
+**[How To JDBC Batch a Big JSON File To MySQL Via ForkJoinPool And HikariCP](https://github.com/andreipall/Spring-Boot-JPA/tree/master/HibernateSpringBootBatchJsonFileForkJoin)**
 
 <b><a href="https://persistencelayer.wixsite.com/springboot-hibernate/post/how-to-jdbc-batch-a-big-json-file-via-forkjoinpool">If you prefer to read it as a blog-post containing the relevant snippets of code then check this post</a></b>
  
@@ -18,16 +18,4 @@
 - set the HikariCP to provide a number of database connections that ensure that the database achives a minimum context switching (e.g., 2 * number of CPU cores)
 - this application uses `StopWatch` to measure the time needed to transfer the file into the database
 - in order to run the application you have to unzip the `citylots.zip` in the current location; this is the big JSON file collected from Internet;
-- if you want to see details about the batch process simply activate the `DatasourceProxyBeanPostProcessor.java` component by uncomment the line, `// @Component`; This is needed because this application relies on DataSource-Proxy (for details, see the following [item](https://github.com/AnghelLeonard/Hibernate-SpringBoot/tree/master/HibernateSpringBootDataSourceProxy))
-
------------------------------------------------------------------------------------------------------------------------    
-<table>
-     <tr><td><b>If you need a deep dive into the performance recipes exposed in this repository then I am sure that you will love my book "Spring Boot Persistence Best Practices"</b></td><td><b>If you need a hand of tips and illustrations of 100+ Java persistence performance issues then "Java Persistence Performance Illustrated Guide" is for you.</b></td></tr>
-     <tr><td>
-<a href="https://www.apress.com/us/book/9781484256251"><p align="left"><img src="https://github.com/AnghelLeonard/Hibernate-SpringBoot/blob/master/Spring%20Boot%20Persistence%20Best%20Practices.jpg" height="500" width="450"/></p></a>
-</td><td>
-<a href="https://leanpub.com/java-persistence-performance-illustrated-guide"><p align="right"><img src="https://github.com/AnghelLeonard/Hibernate-SpringBoot/blob/master/Java%20Persistence%20Performance%20Illustrated%20Guide.jpg" height="500" width="450"/></p></a>
-</td></tr></table>
-
------------------------------------------------------------------------------------------------------------------------    
-
+- if you want to see details about the batch process simply activate the `DatasourceProxyBeanPostProcessor.java` component by uncomment the line, `// @Component`; This is needed because this application relies on DataSource-Proxy (for details, see the following [item](https://github.com/andreipall/Spring-Boot-JPA/tree/master/HibernateSpringBootDataSourceProxy))
