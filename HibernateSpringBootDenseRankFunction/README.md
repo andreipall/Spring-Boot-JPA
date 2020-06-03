@@ -1,4 +1,4 @@
-**[How To Efficiently Assign A Database Temporary Ranking Of Values To Rows via `DENSE_RANK()`](https://github.com/AnghelLeonard/Hibernate-SpringBoot/tree/master/HibernateSpringBootDenseRankFunction)**
+**[How To Efficiently Assign A Database Temporary Ranking Of Values To Rows via `DENSE_RANK()`](https://github.com/andreipall/Spring-Boot-JPA/tree/master/HibernateSpringBootDenseRankFunction)**
  
 **Description:** This application is an example of assigning a database temporary ranking of values to rows via the window function, `DENSE_RANK()`. In comparison with the `RANK()` window function, `DENSE_RANK()` avoid gaps within partition. This window function is available in almost all databases, and starting with version 8.x is available in MySQL as well.
 
@@ -7,16 +7,4 @@
 - write several native querys relying on `DENSE_RANK()` window function
      
 **Output sample:**\
-![](https://github.com/AnghelLeonard/Hibernate-SpringBoot/blob/master/HibernateSpringBootDenseRankFunction/assign%20ranking%20to%20rows.png)
-     
------------------------------------------------------------------------------------------------------------------------    
-<table>
-     <tr><td><b>If you need a deep dive into the performance recipes exposed in this repository then I am sure that you will love my book "Spring Boot Persistence Best Practices"</b></td><td><b>If you need a hand of tips and illustrations of 100+ Java persistence performance issues then "Java Persistence Performance Illustrated Guide" is for you.</b></td></tr>
-     <tr><td>
-<a href="https://www.apress.com/us/book/9781484256251"><p align="left"><img src="https://github.com/AnghelLeonard/Hibernate-SpringBoot/blob/master/Spring%20Boot%20Persistence%20Best%20Practices.jpg" height="500" width="450"/></p></a>
-</td><td>
-<a href="https://leanpub.com/java-persistence-performance-illustrated-guide"><p align="right"><img src="https://github.com/AnghelLeonard/Hibernate-SpringBoot/blob/master/Java%20Persistence%20Performance%20Illustrated%20Guide.jpg" height="500" width="450"/></p></a>
-</td></tr></table>
-
------------------------------------------------------------------------------------------------------------------------    
-
+![](https://github.com/andreipall/Spring-Boot-JPA/blob/master/HibernateSpringBootDenseRankFunction/assign%20ranking%20to%20rows.png)

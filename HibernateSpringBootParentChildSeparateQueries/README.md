@@ -1,4 +1,4 @@
-**[The Best Way To Fetch Parent And Children In Different Queries](https://github.com/AnghelLeonard/Hibernate-SpringBoot/tree/master/HibernateSpringBootParentChildSeparateQueries)** 
+**[The Best Way To Fetch Parent And Children In Different Queries](https://github.com/andreipall/Spring-Boot-JPA/tree/master/HibernateSpringBootParentChildSeparateQueries)** 
 
 **Note:** Fetching *read-only* data should be done via DTO, not managed entities. But, there is no tragedy to fetch read-only entities in a context as follows:
 
@@ -8,7 +8,7 @@
 
 Under these circumstances, let's tackle a common case that I saw quite a lot. There is even an SO answer about it (don't do this):
 
-![](https://github.com/AnghelLeonard/Hibernate-SpringBoot/blob/master/HibernateSpringBootParentChildSeparateQueries/Fetch%20Parent%20And%20Children%20In%20Different%20Queries.png)
+![](https://github.com/andreipall/Spring-Boot-JPA/blob/master/HibernateSpringBootParentChildSeparateQueries/Fetch%20Parent%20And%20Children%20In%20Different%20Queries.png)
 
 **Description:** Let's assume that `Author` and `Book` are involved in a bidirectional-lazy `@OneToMany` association. Imagine an user that loads a certain `Author` (without the associated `Book`). The user may be interested  or not in the `Book`, therefore, we don't load them with the `Author`. If the user is interested in the `Book` then he will click a button of type, *View books*. Now, we have to return the `List<Book>` associated to this `Author`.
 
@@ -19,17 +19,3 @@ But, we can avoid such solution by relying on an explicit JPQL or Query Builder 
 **Key points:**
 - use an explicit JPQL
 - use Query Builder propery expressions
-
-This item is detailed in my book, [Spring Boot Persistence Best Practices](https://www.amazon.com/gp/product/1484256255).
-     
------------------------------------------------------------------------------------------------------------------------    
-<table>
-     <tr><td><b>If you need a deep dive into the performance recipes exposed in this repository then I am sure that you will love my book "Spring Boot Persistence Best Practices"</b></td><td><b>If you need a hand of tips and illustrations of 100+ Java persistence performance issues then "Java Persistence Performance Illustrated Guide" is for you.</b></td></tr>
-     <tr><td>
-<a href="https://www.apress.com/us/book/9781484256251"><p align="left"><img src="https://github.com/AnghelLeonard/Hibernate-SpringBoot/blob/master/Spring%20Boot%20Persistence%20Best%20Practices.jpg" height="500" width="450"/></p></a>
-</td><td>
-<a href="https://leanpub.com/java-persistence-performance-illustrated-guide"><p align="right"><img src="https://github.com/AnghelLeonard/Hibernate-SpringBoot/blob/master/Java%20Persistence%20Performance%20Illustrated%20Guide.jpg" height="500" width="450"/></p></a>
-</td></tr></table>
-
------------------------------------------------------------------------------------------------------------------------    
-

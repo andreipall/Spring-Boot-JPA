@@ -1,4 +1,4 @@
-**[How To Efficiently Distribute The Number Of Rows In The Specified (N) Number Of Groups Via `NTILE(N)`](https://github.com/AnghelLeonard/Hibernate-SpringBoot/tree/master/HibernateSpringBootNTilleFunction)**
+**[How To Efficiently Distribute The Number Of Rows In The Specified (N) Number Of Groups Via `NTILE(N)`](https://github.com/andreipall/Spring-Boot-JPA/tree/master/HibernateSpringBootNTilleFunction)**
  
 **Description:** This application is an example of distributing the number of rows in the specified (N) number of groups via the window function, `NTILE(N)`. This window function is available in almost all databases, and starting with version 8.x is available in MySQL as well.
 
@@ -7,16 +7,4 @@
 - write several native querys relying on `NTILE()` window function
      
 **Output sample:**\
-![](https://github.com/AnghelLeonard/Hibernate-SpringBoot/blob/master/HibernateSpringBootNTilleFunction/grouping%20rows%20via%20NTILE.png)
-     
------------------------------------------------------------------------------------------------------------------------    
-<table>
-     <tr><td><b>If you need a deep dive into the performance recipes exposed in this repository then I am sure that you will love my book "Spring Boot Persistence Best Practices"</b></td><td><b>If you need a hand of tips and illustrations of 100+ Java persistence performance issues then "Java Persistence Performance Illustrated Guide" is for you.</b></td></tr>
-     <tr><td>
-<a href="https://www.apress.com/us/book/9781484256251"><p align="left"><img src="https://github.com/AnghelLeonard/Hibernate-SpringBoot/blob/master/Spring%20Boot%20Persistence%20Best%20Practices.jpg" height="500" width="450"/></p></a>
-</td><td>
-<a href="https://leanpub.com/java-persistence-performance-illustrated-guide"><p align="right"><img src="https://github.com/AnghelLeonard/Hibernate-SpringBoot/blob/master/Java%20Persistence%20Performance%20Illustrated%20Guide.jpg" height="500" width="450"/></p></a>
-</td></tr></table>
-
------------------------------------------------------------------------------------------------------------------------    
-
+![](https://github.com/andreipall/Spring-Boot-JPA/blob/master/HibernateSpringBootNTilleFunction/grouping%20rows%20via%20NTILE.png)
